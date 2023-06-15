@@ -1,0 +1,14 @@
+{
+  "name": "slot-machine-game",
+  "version": "1.0.0",
+  "description": "<img src=\"./images/35348871.png\" alt=\"logo\" height=\"150\"/> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
